@@ -1,0 +1,2 @@
+rootProject.name = "TestMVI2"
+include ':app'
